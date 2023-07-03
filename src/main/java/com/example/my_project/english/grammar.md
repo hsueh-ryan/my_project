@@ -270,7 +270,7 @@ be going to=>常表示用於**實現性非常高的事或事先計劃好的未�
 will(將要)(助動詞)=>will+ 原形動詞
 :::
 * We will leave junior high school soon
-* We are going to leave to leave junior high school soon（比較強調計畫性）
+* We are going to leave junior high school soon（比較強調計畫性）
 * We are leaving leave junior high school soon(現在進行代替未來)
 
 * I {will|~~am going to~~} be fifteen years old next year
